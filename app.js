@@ -29,7 +29,6 @@
             if(gem.numberPurchased > 0) {
                 return true; // this will be listed in the results
             }
-
             return false; // otherwise it won't be within the results
         };
     });
